@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samue Ogoluwa
+- 👋 Hi, I’m @Samuel Ogoluwa
 - 👀 I’m interested in learning, meeting people, travelling and studying 
 - 🌱 I’m currently learning Coding 
 - 💞️ I’m looking to collaborate on github
