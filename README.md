@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samuel Ogooluwa
+- 👋 Hi, I’m @Samuel Ogooluwa (Missionaries)
 - 👀 I’m interested in Coding, learning new skills, meeting people, traveling, and studying 
 - 🌱 I’m currently learning Coding 
 - 💞️ I’m looking to collaborate on GitHub
