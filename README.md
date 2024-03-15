@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Samuel Ogooluwa
-- 👀 I’m interested in Coding, learning new skills, meeting people, traveling, and studying 
+- 👋 Hi, I’m @Samuel Akintoye Ayomide (Ogooluwa)
+- 👀 I’m interested in Coding, learning new skills, Solving Problems, meeting people, traveling, and studying 
 - 🌱 I’m currently learning Coding 
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me WhatsApp no. +2348156650836, Instagram: @samuelayomide2190, or on GitHub here
