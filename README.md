@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samuel Akintoye Ayomide (Ogooluwa)
-- 👀 I’m interested in Coding, learning new skills, Solving Problems, meeting people, traveling, and studying 
-- 🌱 I’m a Software Developer, IT Professional
+- 👀 I’m interested in Coding, learning new skills, Solving Problems, designing, meeting people, traveling, and studying 
+- 🌱 I’m a Software Developer / Engineer, Cyber Security (SOC), Graphics Designer, IT Support Professional
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me WhatsApp no. +2348156650836, Instagram: @samuelayomide2190, or on GitHub here
 <!---
